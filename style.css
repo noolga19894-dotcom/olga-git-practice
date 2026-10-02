@@ -1,0 +1,55 @@
+body {background-color:lightblue;}
+h1 {color:white;}
+h2 {color:purple;}
+.cat-description {color: green;}
+#main-title {color: orange;
+margin-top: 50px;
+margin-bottom: 30px;
+text-align: center;
+padding: 20px;
+background-color: antiquewhite;
+border: 3px solid rgb(232, 145, 114);
+border-radius: 15px;}
+h2, p {font-size: 24px;
+font-style: italic;
+font-weight: bold;
+margin-left: 50px;}
+nav a:hover {color: red;}
+nav a {display: inline-block;
+padding: 8px 15px;
+border: 2px solid purple;
+border-radius: 8px;
+margin-right: 10px;
+background-color: antiquewhite;}
+.cat-photo {border: 5px solid orange;
+border-radius: 20px;
+width: 400px;}
+nav {text-align: center;}
+.cat-table {border-collapse: collapse;
+margin: 30px auto;}
+.cat-table th, .cat-table td {border: 2px solid purple;
+padding: 10px;}
+.cat-table tr:nth-child(1) {background-color: red;}
+.cat-table tr:nth-child(2) {background-color: orangered;}
+.cat-table tr:nth-child(3) {background-color: yellow;}
+.cat-table tr:nth-child(4) {background-color: green;}
+.cat-table tr:nth-child(5) {background-color: lightblue;}
+.cat-table tr:nth-child(6) {background-color: blue;}
+.cat-table tr:nth-child(7) {background-color: lightpink;}
+.cat-list {background-color: white;
+border: 2px solid orange;
+border-radius: 15px;
+padding: 20px 40px;}
+.funny-facts {background-color: lavender;
+border: 2px solid purple;
+border-radius: 20px;
+padding: 20px 40px;
+margin-top: 40px;}
+#favorite-food {color: rgb(52, 3, 44);
+background-color: rgb(215, 176, 215);
+padding: 20px;
+margin-bottom: 20px;}
+#curious {color: rgb(52, 3, 44);
+background-color: rgb(215, 176, 215);
+padding: 20px;
+margin-bottom: 20px;}
